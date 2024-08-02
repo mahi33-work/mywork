@@ -1,0 +1,1 @@
+{for admin related  logs=admin.log, for main application related logs=admin-main.log}
